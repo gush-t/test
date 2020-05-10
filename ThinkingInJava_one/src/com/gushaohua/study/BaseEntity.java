@@ -28,6 +28,9 @@ public class BaseEntity implements Serializable {
 	
 	private Date modifyTime;
 
+	//TODO 重写equals和hashcode的方法
+	
+	
 	
 	/**
 	 * 还可以进行重写equals和hashcode的method
