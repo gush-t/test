@@ -4,6 +4,11 @@ import java.util.Date;
 
 public class InsistStudy extends BaseEntity {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	private boolean insist;
 	
 	private Date studyTime;
